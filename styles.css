@@ -1,0 +1,49 @@
+
+        h1{
+            color:#000000;
+            background-color:lavenderblush;
+            font-size: 50px;
+            text-decoration:underline;
+            text-align: center;
+        }
+        h2{
+            color:darkslategray;
+        }
+        .blahh {
+           color:blueviolet;
+           font-family:Arial, Helvetica, sans-serif;
+        }
+        ul{
+            border-width: 3px;
+            border-style:dotted;
+            border-left: 5px;
+            border-color:brown;
+        
+        }
+        li{
+            list-style-type:square;
+            text-shadow: 3px 3px darkgrey;
+        }
+        span{
+            
+            margin: 20px;
+            padding: 20px;
+        }
+ /* div.blahh{
+    color:midnightblue;
+}
+         
+         a[href]{
+            background-color:bisque;
+         } */
+#content{background-color:bisque;}
+div{
+    color:#000000;
+    border:1px solid gray ;
+    margin: 40px;
+    font-weight: bold;
+}
+p{
+    border:inherit;
+    margin: inherit;
+}
